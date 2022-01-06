@@ -1,0 +1,109 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    background-color: azure;
+}
+.parent{
+    display: flex;
+    padding: 40px ;
+}
+h1{
+    font-size: 50px;
+}
+#top{
+    padding: 60px;
+}
+.width-size h1{
+    border-left: 3px solid palevioletred;
+}
+.botton-size{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: palevioletred;
+    text-decoration: none;
+    
+}
+.color-or{
+    color: orange;
+}
+.width-size{
+    width: 50%;
+   padding-left: 50px;
+}
+.width-size img{
+    width: 70%;
+}
+.card-containers{
+    box-sizing: border-box;
+    display: flex;
+    padding: 20px 0;
+    justify-content: center;
+    
+}
+#mission{
+    text-align: center;
+}
+.card{
+    width: 300px;
+    margin: 10px;
+    background-color: papayawhip;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 16px palegoldenrod;
+
+}
+.img-style{
+    width: 40%;
+}
+.card-body{
+    padding: 10px;
+}
+.card-body .card-desc{
+        text-align: justify;
+}
+
+.card-2{
+    width: 300px;
+    margin: 10px;
+    background: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: paleturquoise;
+    box-shadow: 4px 4px 16px palegoldenrod;
+}
+
+.card-3{
+    width: 300px;
+    margin: 10px;
+    background: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: powderblue;
+    box-shadow: 4px 4px 16px plum;
+}
+
+
+.code img{
+    width: 80%;
+}
+.code{
+    width: 50%;
+    padding-left: 40px;
+}
+.button{
+    color: palevioletred;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 0px;
+    border: none;background-color: pink;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: blanchedalmond;
+}
+.footer h2{
+    font-family: Verdana;
+    color: seagreen;
+}
