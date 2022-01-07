@@ -107,3 +107,13 @@ h1{
     font-family: Verdana;
     color: seagreen;
 }
+.flex{
+    display: flex;
+    box-sizing: border-box;
+}
+.width{
+    width: 50%;
+    border-radius: 10px;
+    padding: 10px 20px;
+   
+}
